@@ -1,0 +1,454 @@
+Gender,Institution,Age_Group,Level,Mode_of_Entry,Degree_Class,aware_policy_16yo,agree_admission_age_policy,believe_age_affects_performance,agree_cognition_above_18,agree_cognition_below_18,believe_age_affects_maturity,believe_age_affects_readiness,attendance_below_18,agree_perf_above18_over_below18,aware_policy_new_admission_age,agree_cognition_above_18_encoded,agree_cognition_below_18_encoded,Success_Above_18_encoded,attendance_below_18_encoded
+Male,Federal University,20 and Above,500,Jamb,Second Class Upper,Yes,Yes,Yes,Disagree,Disagree,Yes,Yes,Seldom,Strongly Agree,Yes,2.0,2.0,5,1
+Female,State University,18 - 19,400,Jamb,Second Class Upper,Yes,Yes,Yes,Agree,Neutral,Yes,Yes,Often,Strongly Disagree,No,4.0,3.0,1,3
+Female,Federal University,20 and Above,400,Jamb,Second Class Upper,Yes,Yes,No,Agree,Strongly Disagree,No,No,Most Often,Agree,Yes,4.0,1.0,4,4
+Male,Private University,16 - 17,300,Jamb,Second Class Lower,Yes,No,No,Disagree,Agree,No,Yes,Seldom,Strongly Agree,Yes,2.0,4.0,5,1
+Female,Private University,18 - 19,200,Jamb,Second Class Upper,Yes,Yes,No,Disagree,Disagree,No,No,Most Often,Neutral,Yes,2.0,2.0,3,4
+Female,Polytechnics,20 and Above,100,Direct Entry,Pass,No,Yes,No,Neutral,Neutral,No,Yes,Most Often,Agree,Yes,3.0,3.0,4,4
+Female,Federal University,20 and Above,300,Jamb,Second Class Upper,Yes,Yes,No,Neutral,Disagree,No,Yes,Often,Disagree,Yes,3.0,2.0,2,3
+Female,State University,18 - 19,500,Jamb,Second Class Lower,Yes,Yes,No,Agree,Agree,Yes,Yes,More Often,Agree,Yes,4.0,4.0,4,2
+Male,Federal University,20 and Above,300,Direct Entry,Pass,No,Yes,No,Neutral,Disagree,Yes,Yes,Seldom,Strongly Agree,Yes,3.0,2.0,5,1
+Female,State University,20 and Above,100,Jamb,First Class,Yes,Yes,No,Agree,Agree,Yes,No,Most Often,Neutral,Yes,4.0,4.0,3,4
+Female,State University,18 - 19,500,Jamb,Second Class Upper,Yes,No,No,Disagree,Agree,Yes,Yes,More Often,Strongly Agree,No,2.0,4.0,5,2
+Male,Federal University,20 and Above,400,Jamb,Second Class Lower,Yes,No,No,Neutral,Strongly Disagree,Yes,Yes,More Often,Neutral,Yes,3.0,1.0,3,2
+Female,State University,20 and Above,500,Jamb,Second Class Upper,Yes,No,No,Disagree,Neutral,No,Yes,More Often,Disagree,Yes,2.0,3.0,2,2
+Female,Federal University,20 and Above,400,Jamb,Second Class Upper,Yes,No,No,Agree,Agree,No,Yes,Most Often,Disagree,Yes,4.0,4.0,2,4
+Female,Polytechnics,20 and Above,100,Jamb,First Class,Yes,Yes,Yes,Agree,Strongly Disagree,No,Yes,Most Often,Strongly Agree,No,4.0,1.0,5,4
+Female,Private University,20 and Above,400,Jamb,Second Class Upper,Yes,Yes,Yes,Strongly Agree,Strongly Agree,No,Yes,Often,Strongly Agree,Yes,5.0,5.0,5,3
+Male,Federal University,20 and Above,300,Jamb,Second Class Upper,Yes,Yes,No,Disagree,Agree,No,No,More Often,Agree,Yes,2.0,4.0,4,2
+Male,Polytechnics,20 and Above,300,Jamb,Second Class Lower,Yes,Yes,Yes,Strongly Agree,Neutral,No,No,More Often,Neutral,No,5.0,3.0,3,2
+Female,Federal University,20 and Above,300,Jamb,Second Class Lower,Yes,No,No,Strongly Disagree,Strongly Disagree,No,No,Most Often,Agree,No,1.0,1.0,4,4
+Male,Polytechnics,18 - 19,100,Jamb,Pass,Yes,No,Yes,Agree,Agree,No,Yes,Most Often,Agree,Yes,4.0,4.0,4,4
+Female,Federal University,20 and Above,300,Jamb,Second Class Upper,No,No,No,Neutral,Agree,No,Yes,Seldom,Strongly Disagree,Yes,3.0,4.0,1,1
+Male,Federal University,20 and Above,300,Jamb,Second Class Upper,Yes,No,Yes,Neutral,Disagree,Yes,Yes,Most Often,Strongly Disagree,No,3.0,2.0,1,4
+Male,State University,18 - 19,300,Jamb,First Class,Yes,No,No,Disagree,Neutral,No,No,Most Often,Strongly Disagree,No,2.0,3.0,1,4
+Female,Federal University,20 and Above,300,Jamb,Second Class Lower,Yes,No,No,Strongly Disagree,Strongly Disagree,No,Yes,Often,Disagree,Yes,1.0,1.0,2,3
+Female,Private University,16 - 17,100,Jamb,Second Class Upper,Yes,No,No,Strongly Disagree,Strongly Agree,No,Yes,Seldom,Agree,No,1.0,5.0,4,1
+Male,Federal University,20 and Above,300,Direct Entry,Second Class Upper,Yes,No,No,Disagree,Disagree,No,Yes,Often,Agree,Yes,2.0,2.0,4,3
+Male,Federal University,18 - 19,200,Jamb,First Class,Yes,No,No,Strongly Disagree,Disagree,Yes,No,Often,Neutral,No,1.0,2.0,3,3
+Female,State University,16 - 17,200,Jamb,Second Class Upper,Yes,No,No,Disagree,Neutral,Yes,No,Often,Strongly Agree,Yes,2.0,3.0,5,3
+Female,Federal University,20 and Above,200,Jamb,First Class,Yes,No,No,Disagree,Disagree,No,Yes,More Often,Disagree,Yes,2.0,2.0,2,2
+Female,Federal University,16 - 17,500,Jamb,Pass,Yes,No,No,Strongly Disagree,Neutral,No,Yes,Most Often,Strongly Disagree,No,1.0,3.0,1,4
+Female,State University,18 - 19,400,Jamb,Second Class Upper,Yes,No,No,Strongly Disagree,Neutral,No,No,Often,Neutral,Yes,1.0,3.0,3,3
+Male,Federal University,20 and Above,300,Jamb,First Class,Yes,No,No,Disagree,Neutral,No,No,More Often,Neutral,No,2.0,3.0,3,2
+Male,Federal University,20 and Above,400,Jamb,First Class,Yes,Yes,No,Strongly Disagree,Strongly Disagree,Yes,Yes,Most Often,Agree,Yes,1.0,1.0,4,4
+Male,Federal University,20 and Above,400,Jamb,First Class,Yes,Yes,Yes,Agree,Neutral,Yes,Yes,More Often,Agree,No,4.0,3.0,4,2
+Female,Federal University,20 and Above,100,Jamb,Second Class Upper,Yes,Yes,Yes,Agree,Disagree,Yes,No,Seldom,Strongly Agree,No,4.0,2.0,5,1
+Male,Federal University,20 and Above,200,Jamb,Second Class Upper,Yes,Yes,No,Neutral,Neutral,Yes,Yes,Seldom,Strongly Agree,Yes,3.0,3.0,5,1
+Male,Federal University,20 and Above,400,Jamb,Second Class Upper,Yes,Yes,Yes,Strongly Agree,Disagree,No,Yes,Most Often,Agree,Yes,5.0,2.0,4,4
+Male,Federal University,18 - 19,500,Direct Entry,Second Class Upper,Yes,Yes,Yes,Strongly Agree,Agree,Yes,Yes,Often,Agree,Yes,5.0,4.0,4,3
+Male,Federal University,20 and Above,300,Jamb,First Class,Yes,Yes,No,Neutral,Neutral,Yes,Yes,Seldom,Strongly Agree,Yes,3.0,3.0,5,1
+Female,Federal University,18 - 19,200,Jamb,Second Class Upper,Yes,No,No,Disagree,Neutral,No,Yes,More Often,Disagree,No,2.0,3.0,2,2
+Male,Private University,20 and Above,400,Jamb,First Class,Yes,Yes,No,Strongly Agree,Neutral,Yes,Yes,Most Often,Disagree,Yes,5.0,3.0,2,4
+Male,Federal University,16 - 17,400,Direct Entry,Second Class Upper,Yes,Yes,Yes,Agree,Neutral,Yes,No,Often,Disagree,Yes,4.0,3.0,2,3
+Female,Federal University,18 - 19,400,Jamb,Second Class Lower,Yes,Yes,Yes,Agree,Disagree,Yes,Yes,Most Often,Strongly Agree,Yes,4.0,2.0,5,4
+Female,Polytechnics,20 and Above,300,Direct Entry,Second Class Upper,Yes,No,No,Disagree,Neutral,No,No,Often,Strongly Agree,Yes,2.0,3.0,5,3
+Male,State University,20 and Above,100,Jamb,First Class,Yes,Yes,No,Agree,Disagree,No,Yes,Most Often,Agree,Yes,4.0,2.0,4,4
+Male,State University,20 and Above,100,Jamb,First Class,Yes,Yes,No,Agree,Agree,Yes,Yes,Often,Disagree,No,4.0,4.0,2,3
+Male,Federal University,20 and Above,500,Jamb,Second Class Upper,Yes,Yes,No,Neutral,Disagree,No,Yes,Often,Neutral,No,3.0,2.0,3,3
+Female,Federal University,20 and Above,200,Jamb,Second Class Upper,Yes,Yes,Yes,Strongly Disagree,Strongly Disagree,Yes,No,Often,Agree,No,1.0,1.0,4,3
+Female,Federal University,20 and Above,400,Jamb,Second Class Upper,Yes,No,No,Disagree,Neutral,No,Yes,Often,Neutral,No,2.0,3.0,3,3
+Female,Federal University,20 and Above,400,Jamb,Second Class Upper,Yes,Yes,Yes,Neutral,Neutral,Yes,Yes,Often,Disagree,Yes,3.0,3.0,2,3
+Male,Federal University,20 and Above,400,Jamb,Second Class Lower,Yes,No,No,Strongly Disagree,Agree,Yes,No,Most Often,Disagree,Yes,1.0,4.0,2,4
+Female,Federal University,18 - 19,200,Jamb,Second Class Upper,Yes,No,No,Disagree,Neutral,No,Yes,Often,Strongly Disagree,Yes,2.0,3.0,1,3
+Male,Federal University,20 and Above,500,Jamb,First Class,Yes,Yes,Yes,Strongly Disagree,Disagree,No,Yes,Often,Disagree,Yes,1.0,2.0,2,3
+Female,Federal University,16 - 17,300,Jamb,Second Class Upper,Yes,No,No,Disagree,Agree,No,Yes,Often,Strongly Agree,No,2.0,4.0,5,3
+Female,Federal University,16 - 17,300,Jamb,Second Class Upper,Yes,No,No,Disagree,Agree,No,Yes,Seldom,Neutral,No,2.0,4.0,3,1
+Female,Private University,20 and Above,400,Jamb,First Class,Yes,No,No,Agree,Agree,No,Yes,Most Often,Strongly Agree,No,4.0,4.0,5,4
+Male,Polytechnics,20 and Above,300,Jamb,Second Class Lower,Yes,Yes,Yes,Agree,Agree,Yes,Yes,Most Often,Neutral,No,4.0,4.0,3,4
+Female,State University,20 and Above,500,Direct Entry,Second Class Upper,Yes,No,Yes,Agree,Strongly Disagree,Yes,Yes,More Often,Agree,No,4.0,1.0,4,2
+Female,Federal University,20 and Above,200,Jamb,Second Class Upper,Yes,Yes,No,Strongly Disagree,Strongly Disagree,Yes,Yes,Most Often,Disagree,Yes,1.0,1.0,2,4
+Male,Federal University,20 and Above,400,Jamb,Second Class Upper,Yes,Yes,No,Agree,Disagree,No,No,More Often,Agree,Yes,4.0,2.0,4,2
+Male,State University,20 and Above,500,Jamb,Second Class Upper,Yes,Yes,No,Strongly Disagree,Neutral,No,No,Most Often,Agree,Yes,1.0,3.0,4,4
+Female,State University,20 and Above,400,Jamb,Second Class Upper,Yes,Yes,Yes,Agree,Disagree,Yes,No,Most Often,Agree,Yes,4.0,2.0,4,4
+Female,State University,20 and Above,300,Jamb,Second Class Upper,Yes,No,No,Strongly Agree,Strongly Disagree,No,Yes,More Often,Agree,Yes,5.0,1.0,4,2
+Male,Federal University,20 and Above,400,Jamb,Third Class,Yes,Yes,Yes,Agree,Neutral,Yes,No,Seldom,Strongly Disagree,Yes,4.0,3.0,1,1
+Male,Federal University,20 and Above,100,Jamb,Pass,Yes,No,No,Agree,Neutral,No,Yes,Often,Neutral,No,4.0,3.0,3,3
+Male,Federal University,20 and Above,200,Jamb,First Class,Yes,No,No,Disagree,Neutral,No,Yes,Often,Agree,Yes,2.0,3.0,4,3
+Female,Polytechnics,20 and Above,100,Jamb,Second Class Upper,Yes,Yes,No,Disagree,Agree,No,Yes,Most Often,Disagree,No,2.0,4.0,2,4
+Male,Polytechnics,18 - 19,400,Jamb,Pass,Yes,Yes,Yes,Strongly Disagree,Strongly Disagree,Yes,Yes,Most Often,Disagree,No,1.0,1.0,2,4
+Female,State University,20 and Above,400,Jamb,Second Class Lower,Yes,Yes,Yes,Agree,Disagree,Yes,Yes,Often,Disagree,Yes,4.0,2.0,2,3
+Female,State University,20 and Above,500,Jamb,Second Class Lower,Yes,Yes,No,Agree,Agree,No,No,Most Often,Strongly Disagree,Yes,4.0,4.0,1,4
+Male,Federal University,18 - 19,500,Jamb,Second Class Upper,Yes,Yes,No,Agree,Neutral,Yes,Yes,Most Often,Neutral,Yes,4.0,3.0,3,4
+Female,Federal University,18 - 19,400,Jamb,Second Class Upper,Yes,No,No,Neutral,Disagree,Yes,Yes,Most Often,Disagree,No,3.0,2.0,2,4
+Female,Federal University,18 - 19,400,Jamb,Second Class Upper,Yes,Yes,No,Neutral,Neutral,Yes,Yes,Often,Strongly Disagree,Yes,3.0,3.0,1,3
+Male,College of Education,20 and Above,300,Jamb,First Class,Yes,Yes,Yes,Neutral,Neutral,Yes,Yes,Most Often,Agree,Yes,3.0,3.0,4,4
+Male,Federal University,20 and Above,400,Jamb,First Class,Yes,No,No,Disagree,Agree,No,No,Most Often,Agree,Yes,2.0,4.0,4,4
+Male,Private University,18 - 19,400,Jamb,Second Class Lower,Yes,Yes,Yes,Agree,Neutral,Yes,No,Often,Neutral,Yes,4.0,3.0,3,3
+Female,College of Education,20 and Above,300,Jamb,Second Class Lower,Yes,Yes,Yes,Agree,Disagree,Yes,Yes,Most Often,Strongly Agree,Yes,4.0,2.0,5,4
+Male,Federal University,20 and Above,400,Jamb,Second Class Upper,Yes,Yes,Yes,Agree,Disagree,No,Yes,More Often,Neutral,Yes,4.0,2.0,3,2
+Male,Federal University,18 - 19,400,Jamb,Second Class Upper,Yes,Yes,Yes,Neutral,Agree,No,Yes,Often,Strongly Agree,Yes,3.0,4.0,5,3
+Male,Private University,18 - 19,300,Jamb,First Class,Yes,No,No,Strongly Disagree,Strongly Agree,No,Yes,Often,Strongly Agree,Yes,1.0,5.0,5,3
+Female,Federal University,16 - 17,200,Jamb,Second Class Upper,Yes,Yes,No,Neutral,Neutral,No,Yes,Most Often,Disagree,Yes,3.0,3.0,2,4
+Female,State University,16 - 17,500,Jamb,Second Class Upper,Yes,Yes,Yes,Strongly Agree,Strongly Agree,No,No,Often,Agree,Yes,5.0,5.0,4,3
+Male,Federal University,20 and Above,500,Jamb,First Class,No,No,No,Neutral,Disagree,No,Yes,Seldom,Strongly Disagree,Yes,3.0,2.0,1,1
+Female,College of Education,18 - 19,400,Jamb,Second Class Upper,Yes,No,No,Disagree,Disagree,No,Yes,Most Often,Strongly Disagree,No,2.0,2.0,1,4
+Male,Federal University,20 and Above,400,Jamb,First Class,Yes,Yes,No,Agree,Neutral,Yes,Yes,More Often,Strongly Agree,Yes,4.0,3.0,5,2
+Female,Federal University,20 and Above,300,Jamb,Second Class Upper,Yes,No,Yes,Strongly Disagree,Strongly Disagree,Yes,Yes,Most Often,Strongly Agree,Yes,1.0,1.0,5,4
+Male,Federal University,18 - 19,100,Jamb,Second Class Upper,Yes,Yes,Yes,Strongly Agree,Neutral,Yes,Yes,Most Often,Agree,Yes,5.0,3.0,4,4
+Male,Federal University,20 and Above,100,Direct Entry,Third Class,Yes,No,No,Strongly Disagree,Strongly Disagree,No,No,More Often,Agree,Yes,1.0,1.0,4,2
+Male,Federal University,20 and Above,100,Jamb,Second Class Lower,Yes,Yes,Yes,Agree,Neutral,Yes,No,More Often,Strongly Agree,No,4.0,3.0,5,2
+Male,Federal University,18 - 19,100,Jamb,Second Class Lower,Yes,Yes,No,Neutral,Neutral,No,Yes,Often,Agree,Yes,3.0,3.0,4,3
+Female,State University,20 and Above,400,Jamb,Second Class Lower,Yes,Yes,No,Agree,Agree,Yes,Yes,Seldom,Agree,Yes,4.0,4.0,4,1
+Male,Polytechnics,20 and Above,400,Jamb,Pass,Yes,Yes,Yes,Neutral,Neutral,Yes,No,Most Often,Agree,Yes,3.0,3.0,4,4
+Female,State University,18 - 19,300,Jamb,First Class,Yes,Yes,No,Disagree,Agree,No,Yes,Most Often,Disagree,Yes,2.0,4.0,2,4
+Female,Federal University,18 - 19,300,Jamb,Second Class Upper,Yes,No,No,Disagree,Neutral,No,No,More Often,Neutral,Yes,2.0,3.0,3,2
+Female,Federal University,20 and Above,100,Jamb,Pass,Yes,Yes,No,Neutral,Neutral,No,No,Most Often,Agree,Yes,3.0,3.0,4,4
+Male,Federal University,20 and Above,400,Jamb,Second Class Upper,Yes,Yes,Yes,Strongly Disagree,Agree,Yes,No,Most Often,Strongly Agree,Yes,1.0,4.0,5,4
+Female,State University,20 and Above,200,Jamb,Pass,Yes,Yes,Yes,Strongly Disagree,Strongly Disagree,Yes,Yes,More Often,Agree,Yes,1.0,1.0,4,2
+Female,Polytechnics,20 and Above,300,Jamb,Second Class Lower,No,No,No,Disagree,Neutral,No,Yes,Often,Strongly Disagree,Yes,2.0,3.0,1,3
+Female,Federal University,18 - 19,100,Direct Entry,Second Class Upper,Yes,No,No,Disagree,Neutral,No,Yes,Seldom,Agree,Yes,2.0,3.0,4,1
+Male,Federal University,20 and Above,100,Jamb,Second Class Lower,Yes,Yes,Yes,Neutral,Neutral,Yes,Yes,Often,Strongly Agree,No,3.0,3.0,5,3
+Male,Federal University,18 - 19,100,Jamb,Third Class,Yes,Yes,Yes,Strongly Disagree,Neutral,Yes,No,Most Often,Strongly Agree,No,1.0,3.0,5,4
+Male,Federal University,18 - 19,100,Jamb,Second Class Upper,Yes,Yes,Yes,Strongly Agree,Strongly Disagree,Yes,Yes,Most Often,Strongly Agree,Yes,5.0,1.0,5,4
+Male,Federal University,16 - 17,100,Jamb,Second Class Upper,Yes,Yes,No,Strongly Disagree,Agree,No,Yes,More Often,Disagree,No,1.0,4.0,2,2
+Male,Federal University,18 - 19,100,Jamb,Second Class Upper,Yes,Yes,No,Disagree,Agree,No,No,Most Often,Strongly Agree,Yes,2.0,4.0,5,4
+Male,Federal University,20 and Above,100,Jamb,Second Class Upper,Yes,Yes,Yes,Strongly Agree,Disagree,Yes,No,Most Often,Strongly Agree,Yes,5.0,2.0,5,4
+Male,Federal University,20 and Above,100,Jamb,Pass,Yes,No,No,Agree,Disagree,Yes,Yes,Most Often,Neutral,Yes,4.0,2.0,3,4
+Male,Federal University,18 - 19,100,Jamb,Second Class Lower,Yes,Yes,No,Strongly Disagree,Agree,Yes,No,More Often,Agree,Yes,1.0,4.0,4,2
+Female,Federal University,20 and Above,400,Direct Entry,Second Class Upper,Yes,Yes,Yes,Strongly Agree,Agree,Yes,Yes,More Often,Strongly Agree,No,5.0,4.0,5,2
+Male,Federal University,20 and Above,100,Jamb,Third Class,Yes,Yes,No,Agree,Agree,No,Yes,Seldom,Agree,Yes,4.0,4.0,4,1
+Male,Federal University,16 - 17,100,Jamb,Second Class Lower,Yes,No,No,Neutral,Neutral,No,No,Most Often,Agree,Yes,3.0,3.0,4,4
+Male,Federal University,20 and Above,100,Jamb,Second Class Upper,Yes,Yes,No,Neutral,Neutral,No,Yes,Most Often,Agree,Yes,3.0,3.0,4,4
+Male,Federal University,20 and Above,100,Jamb,Second Class Lower,Yes,Yes,No,Neutral,Neutral,No,Yes,Most Often,Strongly Disagree,Yes,3.0,3.0,1,4
+Male,Federal University,18 - 19,100,Jamb,Second Class Upper,Yes,Yes,No,Neutral,Neutral,No,No,Most Often,Neutral,Yes,3.0,3.0,3,4
+Male,Federal University,16 - 17,100,Jamb,Second Class Lower,Yes,No,No,Neutral,Agree,No,Yes,Often,Agree,Yes,3.0,4.0,4,3
+Male,Federal University,16 - 17,100,Jamb,Second Class Lower,No,No,No,Neutral,Neutral,No,Yes,Most Often,Agree,Yes,3.0,3.0,4,4
+Male,Federal University,16 - 17,100,Jamb,Second Class Upper,No,No,No,Disagree,Neutral,No,Yes,Seldom,Disagree,Yes,2.0,3.0,2,1
+Male,Federal University,18 - 19,100,Jamb,Second Class Lower,Yes,Yes,No,Agree,Neutral,Yes,Yes,More Often,Neutral,No,4.0,3.0,3,2
+Male,Federal University,20 and Above,100,Jamb,Pass,Yes,No,No,Strongly Disagree,Strongly Agree,No,Yes,Most Often,Strongly Agree,No,1.0,5.0,5,4
+Male,Federal University,20 and Above,100,Jamb,Second Class Lower,Yes,Yes,Yes,Strongly Disagree,Strongly Disagree,Yes,No,Most Often,Disagree,Yes,1.0,1.0,2,4
+Male,Federal University,18 - 19,100,Jamb,Pass,Yes,Yes,No,Neutral,Neutral,No,Yes,Most Often,Agree,Yes,3.0,3.0,4,4
+Male,Federal University,20 and Above,100,Jamb,Second Class Lower,Yes,Yes,Yes,Agree,Disagree,Yes,Yes,More Often,Agree,Yes,4.0,2.0,4,2
+Male,Federal University,18 - 19,100,Jamb,Second Class Upper,Yes,Yes,Yes,Agree,Disagree,Yes,No,Most Often,Strongly Agree,No,4.0,2.0,5,4
+Male,Federal University,18 - 19,100,Jamb,Pass,Yes,Yes,Yes,Strongly Disagree,Disagree,No,No,Most Often,Strongly Disagree,No,1.0,2.0,1,4
+Male,Federal University,16 - 17,100,Jamb,Pass,Yes,Yes,No,Agree,Neutral,No,Yes,Often,Strongly Agree,No,4.0,3.0,5,3
+Male,Federal University,20 and Above,100,Jamb,Second Class Upper,Yes,Yes,Yes,Neutral,Neutral,Yes,Yes,Most Often,Strongly Agree,Yes,3.0,3.0,5,4
+Male,Federal University,20 and Above,100,Jamb,Second Class Upper,Yes,Yes,Yes,Neutral,Agree,Yes,Yes,Most Often,Agree,Yes,3.0,4.0,4,4
+Male,Polytechnics,20 and Above,400,Jamb,Second Class Lower,Yes,Yes,Yes,Neutral,Neutral,Yes,Yes,More Often,Agree,Yes,3.0,3.0,4,2
+Female,Federal University,18 - 19,100,Jamb,Pass,Yes,Yes,Yes,Agree,Neutral,Yes,Yes,Most Often,Disagree,Yes,4.0,3.0,2,4
+Male,Federal University,20 and Above,100,Jamb,Second Class Lower,Yes,Yes,Yes,Agree,Neutral,Yes,No,More Often,Agree,No,4.0,3.0,4,2
+Female,State University,18 - 19,100,Jamb,Second Class Upper,Yes,Yes,No,Neutral,Neutral,Yes,Yes,More Often,Strongly Disagree,Yes,3.0,3.0,1,2
+Male,Federal University,16 - 17,100,Jamb,Third Class,Yes,No,No,Neutral,Neutral,No,Yes,Most Often,Agree,Yes,3.0,3.0,4,4
+Female,Federal University,16 - 17,100,Jamb,First Class,Yes,No,No,Strongly Disagree,Strongly Agree,No,Yes,Most Often,Agree,Yes,1.0,5.0,4,4
+Female,Federal University,16 - 17,100,Direct Entry,Third Class,Yes,Yes,Yes,Agree,Agree,No,No,Most Often,Strongly Agree,No,4.0,4.0,5,4
+Male,Federal University,18 - 19,100,Jamb,Third Class,Yes,Yes,Yes,Disagree,Agree,Yes,Yes,Seldom,Agree,Yes,2.0,4.0,4,1
+Male,Federal University,16 - 17,100,Jamb,Second Class Lower,Yes,Yes,Yes,Agree,Disagree,No,No,Most Often,Strongly Disagree,No,4.0,2.0,1,4
+Female,Federal University,20 and Above,400,Direct Entry,Second Class Upper,Yes,No,No,Neutral,Neutral,No,Yes,Often,Disagree,Yes,3.0,3.0,2,3
+Male,Federal University,18 - 19,100,Jamb,Second Class Lower,Yes,Yes,Yes,Agree,Disagree,Yes,Yes,Often,Agree,Yes,4.0,2.0,4,3
+Male,Federal University,18 - 19,100,Jamb,Second Class Lower,Yes,Yes,No,Agree,Agree,No,Yes,Most Often,Neutral,Yes,4.0,4.0,3,4
+Female,Federal University,20 and Above,400,Jamb,Second Class Lower,Yes,No,Yes,Agree,Agree,Yes,No,Seldom,Neutral,No,4.0,4.0,3,1
+Male,Federal University,16 - 17,100,Jamb,Pass,Yes,Yes,Yes,Agree,Disagree,Yes,No,Most Often,Agree,No,4.0,2.0,4,4
+Male,Federal University,18 - 19,100,Jamb,Fail,Yes,Yes,Yes,Agree,Neutral,Yes,No,Often,Disagree,No,4.0,3.0,2,3
+Male,Federal University,18 - 19,100,Jamb,Second Class Upper,Yes,Yes,Yes,Agree,Strongly Disagree,Yes,Yes,Often,Neutral,Yes,4.0,1.0,3,3
+Male,Federal University,16 - 17,100,Jamb,Second Class Upper,No,Yes,No,Neutral,Agree,No,Yes,Often,Disagree,No,3.0,4.0,2,3
+Male,Federal University,16 - 17,100,Jamb,Third Class,Yes,Yes,No,Neutral,Agree,No,No,Often,Agree,No,3.0,4.0,4,3
+Female,Polytechnics,20 and Above,400,Jamb,Second Class Upper,Yes,Yes,Yes,Agree,Disagree,Yes,No,Most Often,Strongly Agree,Yes,4.0,2.0,5,4
+Male,Federal University,16 - 17,100,Jamb,Pass,No,Yes,No,Disagree,Agree,No,Yes,More Often,Strongly Agree,No,2.0,4.0,5,2
+Male,Federal University,16 - 17,100,Jamb,Third Class,Yes,Yes,No,Neutral,Neutral,Yes,Yes,Often,Neutral,Yes,3.0,3.0,3,3
+Female,Polytechnics,20 and Above,300,Jamb,Second Class Upper,Yes,Yes,Yes,Agree,Disagree,Yes,No,Often,Agree,No,4.0,2.0,4,3
+Male,Federal University,18 - 19,100,Jamb,Pass,Yes,No,Yes,Disagree,Strongly Disagree,Yes,Yes,Most Often,Neutral,No,2.0,1.0,3,4
+Male,Federal University,20 and Above,100,Jamb,Second Class Upper,Yes,Yes,No,Agree,Agree,No,Yes,Most Often,Strongly Agree,No,4.0,4.0,5,4
+Female,State University,16 - 17,500,Jamb,Second Class Lower,Yes,No,No,Neutral,Agree,No,Yes,Most Often,Agree,Yes,3.0,4.0,4,4
+Male,Federal University,20 and Above,100,Jamb,Second Class Lower,Yes,Yes,Yes,Strongly Agree,Disagree,Yes,Yes,More Often,Neutral,No,5.0,2.0,3,2
+Male,Federal University,18 - 19,100,Jamb,Pass,Yes,Yes,Yes,Agree,Disagree,No,Yes,Often,Agree,Yes,4.0,2.0,4,3
+Male,Federal University,18 - 19,100,Jamb,Second Class Upper,Yes,Yes,Yes,Agree,Disagree,No,No,Often,Agree,Yes,4.0,2.0,4,3
+Male,Federal University,16 - 17,100,Jamb,Third Class,No,No,No,Strongly Disagree,Strongly Agree,No,Yes,Most Often,Agree,No,1.0,5.0,4,4
+Male,Federal University,18 - 19,100,Jamb,Third Class,Yes,Yes,Yes,Agree,Agree,Yes,No,Often,Agree,No,4.0,4.0,4,3
+Male,Federal University,20 and Above,100,Jamb,Second Class Upper,Yes,Yes,No,Neutral,Neutral,No,No,Seldom,Neutral,Yes,3.0,3.0,3,1
+Male,State University,18 - 19,200,Jamb,Second Class Upper,Yes,Yes,No,Neutral,Neutral,No,Yes,Often,Disagree,Yes,3.0,3.0,2,3
+Male,Federal University,18 - 19,100,Direct Entry,Pass,Yes,Yes,Yes,Agree,Neutral,Yes,Yes,More Often,Disagree,Yes,4.0,3.0,2,2
+Male,Federal University,16 - 17,100,Jamb,Third Class,No,No,No,Strongly Disagree,Strongly Agree,No,No,Most Often,Strongly Agree,Yes,1.0,5.0,5,4
+Female,Federal University,18 - 19,100,Jamb,Second Class Upper,Yes,Yes,No,Disagree,Neutral,Yes,Yes,Seldom,Disagree,Yes,2.0,3.0,2,1
+Male,Federal University,16 - 17,100,Jamb,Second Class Upper,Yes,No,No,Disagree,Strongly Disagree,No,Yes,Seldom,Agree,No,2.0,1.0,4,1
+Male,Federal University,16 - 17,100,Jamb,Third Class,Yes,Yes,No,Strongly Disagree,Strongly Disagree,No,Yes,Often,Neutral,No,1.0,1.0,3,3
+Male,Federal University,16 - 17,100,Jamb,Second Class Upper,Yes,No,No,Disagree,Agree,No,No,Often,Strongly Agree,Yes,2.0,4.0,5,3
+Female,Federal University,18 - 19,100,Jamb,Second Class Upper,Yes,Yes,Yes,Disagree,Neutral,Yes,No,Most Often,Strongly Agree,Yes,2.0,3.0,5,4
+Male,Federal University,18 - 19,100,Jamb,Pass,Yes,No,No,Disagree,Neutral,No,Yes,Most Often,Disagree,No,2.0,3.0,2,4
+Male,Federal University,18 - 19,100,Jamb,Pass,Yes,Yes,No,Agree,Agree,No,Yes,Most Often,Strongly Agree,No,4.0,4.0,5,4
+Female,State University,18 - 19,200,Jamb,Second Class Lower,Yes,No,No,Strongly Disagree,Disagree,No,Yes,More Often,Agree,Yes,1.0,2.0,4,2
+Male,State University,20 and Above,400,Direct Entry,Second Class Upper,Yes,Yes,Yes,Agree,Neutral,No,Yes,Seldom,Strongly Agree,Yes,4.0,3.0,5,1
+Male,Federal University,20 and Above,100,Jamb,Second Class Lower,Yes,Yes,No,Neutral,Neutral,Yes,No,Most Often,Agree,No,3.0,3.0,4,4
+Male,Federal University,18 - 19,100,Jamb,Third Class,Yes,Yes,Yes,Agree,Agree,Yes,Yes,Often,Neutral,Yes,4.0,4.0,3,3
+Male,Federal University,18 - 19,100,Jamb,Second Class Lower,Yes,Yes,Yes,Agree,Strongly Disagree,Yes,No,Most Often,Disagree,No,4.0,1.0,2,4
+Male,Federal University,18 - 19,100,Jamb,Third Class,Yes,Yes,Yes,Agree,Agree,Yes,Yes,More Often,Strongly Agree,No,4.0,4.0,5,2
+Female,State University,18 - 19,300,Jamb,Second Class Upper,Yes,No,No,Disagree,Neutral,No,Yes,Most Often,Agree,No,2.0,3.0,4,4
+Male,Federal University,16 - 17,100,Jamb,Pass,Yes,Yes,No,Disagree,Strongly Agree,Yes,Yes,Most Often,Neutral,Yes,2.0,5.0,3,4
+Male,Federal University,18 - 19,100,Jamb,Second Class Lower,Yes,Yes,No,Agree,Neutral,No,Yes,Seldom,Agree,No,4.0,3.0,4,1
+Male,Federal University,18 - 19,100,Jamb,Second Class Lower,No,No,No,Disagree,Agree,No,Yes,More Often,Strongly Agree,Yes,2.0,4.0,5,2
+Male,Federal University,18 - 19,100,Jamb,Pass,Yes,Yes,No,Agree,Neutral,Yes,Yes,Seldom,Strongly Agree,Yes,4.0,3.0,5,1
+Female,Federal University,16 - 17,100,Jamb,Second Class Upper,Yes,Yes,No,Disagree,Disagree,No,No,Most Often,Strongly Agree,Yes,2.0,2.0,5,4
+Male,Federal University,18 - 19,100,Jamb,Pass,Yes,Yes,No,Agree,Neutral,Yes,Yes,More Often,Neutral,No,4.0,3.0,3,2
+Male,Federal University,18 - 19,100,Jamb,Second Class Upper,Yes,Yes,No,Strongly Disagree,Neutral,No,No,More Often,Strongly Agree,No,1.0,3.0,5,2
+Male,Federal University,18 - 19,100,Jamb,Second Class Upper,Yes,Yes,No,Disagree,Neutral,Yes,Yes,Often,Strongly Agree,Yes,2.0,3.0,5,3
+Male,Federal University,16 - 17,100,Direct Entry,Pass,Yes,No,No,Neutral,Neutral,Yes,Yes,Most Often,Agree,No,3.0,3.0,4,4
+Male,Federal University,20 and Above,100,Jamb,Second Class Upper,Yes,Yes,Yes,Agree,Disagree,Yes,Yes,Often,Strongly Agree,Yes,4.0,2.0,5,3
+Female,State University,16 - 17,500,Jamb,Second Class Lower,Yes,Yes,Yes,Neutral,Neutral,No,Yes,More Often,Strongly Disagree,No,3.0,3.0,1,2
+Male,Federal University,20 and Above,100,Direct Entry,First Class,Yes,Yes,Yes,Disagree,Agree,Yes,Yes,More Often,Agree,No,2.0,4.0,4,2
+Male,State University,18 - 19,500,Jamb,Second Class Lower,Yes,Yes,No,Disagree,Disagree,Yes,Yes,Often,Agree,Yes,2.0,2.0,4,3
+Male,Federal University,16 - 17,100,Jamb,Pass,Yes,Yes,No,Agree,Agree,Yes,Yes,Most Often,Strongly Agree,Yes,4.0,4.0,5,4
+Female,State University,16 - 17,500,Jamb,Second Class Lower,Yes,No,Yes,Disagree,Strongly Agree,No,No,Seldom,Disagree,No,2.0,5.0,2,1
+Male,Federal University,18 - 19,100,Direct Entry,Third Class,Yes,Yes,Yes,Agree,Disagree,No,No,Seldom,Agree,No,4.0,2.0,4,1
+Male,State University,20 and Above,500,Jamb,Second Class Upper,Yes,No,No,Disagree,Strongly Disagree,Yes,No,Most Often,Neutral,No,2.0,1.0,3,4
+Male,Federal University,20 and Above,100,Direct Entry,Third Class,Yes,Yes,Yes,Strongly Agree,Strongly Agree,Yes,Yes,Most Often,Strongly Agree,Yes,5.0,5.0,5,4
+Female,State University,20 and Above,500,Jamb,Second Class Upper,Yes,No,No,Agree,Strongly Disagree,No,No,Often,Disagree,No,4.0,1.0,2,3
+Male,Federal University,20 and Above,100,Jamb,Second Class Upper,Yes,No,No,Neutral,Agree,No,Yes,Most Often,Strongly Agree,Yes,3.0,4.0,5,4
+Female,Polytechnics,20 and Above,300,Jamb,Pass,Yes,Yes,Yes,Agree,Strongly Disagree,Yes,Yes,Often,Agree,Yes,4.0,1.0,4,3
+Male,Federal University,20 and Above,100,Jamb,Third Class,Yes,Yes,Yes,Agree,Agree,Yes,Yes,Often,Disagree,Yes,4.0,4.0,2,3
+Male,Federal University,18 - 19,100,Jamb,Second Class Lower,Yes,Yes,Yes,Agree,Agree,Yes,Yes,Most Often,Agree,Yes,4.0,4.0,4,4
+Female,Polytechnics,20 and Above,300,Jamb,Second Class Upper,Yes,Yes,Yes,Agree,Disagree,Yes,No,Seldom,Neutral,No,4.0,2.0,3,1
+Male,Federal University,20 and Above,100,Jamb,First Class,Yes,Yes,Yes,Agree,Agree,Yes,Yes,Often,Agree,Yes,4.0,4.0,4,3
+Male,Federal University,20 and Above,100,Jamb,Second Class Lower,No,Yes,No,Disagree,Agree,No,Yes,Often,Strongly Agree,Yes,2.0,4.0,5,3
+Male,Federal University,20 and Above,100,Jamb,Fail,Yes,Yes,No,Neutral,Neutral,Yes,No,Often,Strongly Agree,Yes,3.0,3.0,5,3
+Male,Federal University,20 and Above,100,Jamb,Third Class,Yes,No,No,Neutral,Neutral,No,Yes,Most Often,Agree,Yes,3.0,3.0,4,4
+Female,Federal University,16 - 17,100,Jamb,Pass,Yes,Yes,No,Neutral,Agree,No,Yes,Most Often,Agree,No,3.0,4.0,4,4
+Female,Polytechnics,20 and Above,300,Jamb,Pass,Yes,Yes,Yes,Neutral,Neutral,Yes,No,More Often,Neutral,No,3.0,3.0,3,2
+Male,Federal University,20 and Above,100,Jamb,Pass,Yes,Yes,No,Agree,Agree,No,Yes,Most Often,Neutral,Yes,4.0,4.0,3,4
+Male,Federal University,18 - 19,100,Jamb,Second Class Upper,Yes,Yes,No,Disagree,Agree,Yes,Yes,Most Often,Strongly Disagree,Yes,2.0,4.0,1,4
+Male,Federal University,18 - 19,100,Jamb,Pass,Yes,Yes,No,Disagree,Disagree,Yes,Yes,Most Often,Neutral,No,2.0,2.0,3,4
+Male,State University,20 and Above,400,Jamb,Second Class Lower,Yes,Yes,Yes,Disagree,Neutral,Yes,Yes,Often,Neutral,No,2.0,3.0,3,3
+Male,Federal University,20 and Above,100,Jamb,Second Class Upper,Yes,Yes,Yes,Agree,Agree,Yes,Yes,More Often,Agree,Yes,4.0,4.0,4,2
+Female,Federal University,18 - 19,100,Jamb,Second Class Upper,Yes,Yes,Yes,Agree,Agree,Yes,Yes,More Often,Disagree,No,4.0,4.0,2,2
+Male,Federal University,20 and Above,100,Jamb,Fail,Yes,Yes,No,Agree,Agree,Yes,Yes,Seldom,Agree,Yes,4.0,4.0,4,1
+Male,Federal University,16 - 17,300,Jamb,Third Class,No,No,No,Neutral,Agree,Yes,Yes,Most Often,Strongly Agree,Yes,3.0,4.0,5,4
+Female,Federal University,18 - 19,100,Jamb,Second Class Upper,Yes,Yes,Yes,Agree,Agree,Yes,Yes,Often,Agree,Yes,4.0,4.0,4,3
+Male,Federal University,18 - 19,100,Direct Entry,Pass,Yes,Yes,Yes,Agree,Disagree,Yes,Yes,Most Often,Neutral,Yes,4.0,2.0,3,4
+Male,Federal University,18 - 19,100,Jamb,Pass,Yes,Yes,Yes,Strongly Disagree,Strongly Disagree,Yes,No,Often,Agree,Yes,1.0,1.0,4,3
+Female,Federal University,16 - 17,300,Jamb,First Class,Yes,No,No,Agree,Agree,Yes,Yes,Often,Agree,No,4.0,4.0,4,3
+Male,Federal University,18 - 19,100,Jamb,First Class,Yes,Yes,No,Neutral,Neutral,No,No,Most Often,Strongly Disagree,Yes,3.0,3.0,1,4
+Female,Federal University,20 and Above,400,Jamb,Second Class Upper,Yes,No,No,Neutral,Neutral,No,No,Most Often,Agree,Yes,3.0,3.0,4,4
+Male,Federal University,18 - 19,100,Jamb,Pass,Yes,Yes,Yes,Agree,Disagree,Yes,Yes,Often,Strongly Agree,Yes,4.0,2.0,5,3
+Female,Federal University,20 and Above,300,Direct Entry,Second Class Lower,Yes,Yes,No,Disagree,Disagree,No,Yes,Most Often,Agree,Yes,2.0,2.0,4,4
+Female,State University,20 and Above,300,Jamb,Pass,Yes,No,No,Strongly Disagree,Neutral,No,Yes,Most Often,Strongly Agree,Yes,1.0,3.0,5,4
+Female,Federal University,20 and Above,400,Direct Entry,Pass,Yes,Yes,No,Disagree,Agree,Yes,No,More Often,Agree,Yes,2.0,4.0,4,2
+Male,State University,18 - 19,500,Jamb,Second Class Upper,Yes,Yes,Yes,Strongly Agree,Agree,Yes,Yes,Often,Disagree,Yes,5.0,4.0,2,3
+Female,Federal University,18 - 19,400,Jamb,Second Class Upper,Yes,No,No,Strongly Disagree,Strongly Agree,No,Yes,More Often,Neutral,Yes,1.0,5.0,3,2
+Female,Federal University,16 - 17,100,Jamb,Pass,Yes,Yes,No,Disagree,Disagree,No,Yes,Often,Neutral,Yes,2.0,2.0,3,3
+Male,Federal University,20 and Above,300,Direct Entry,Second Class Upper,Yes,Yes,Yes,Neutral,Disagree,Yes,Yes,Often,Neutral,No,3.0,2.0,3,3
+Female,Polytechnics,16 - 17,300,Direct Entry,Second Class Upper,Yes,No,No,Agree,Strongly Disagree,Yes,Yes,More Often,Agree,No,4.0,1.0,4,2
+Female,Polytechnics,20 and Above,300,Direct Entry,Second Class Upper,Yes,No,Yes,Neutral,Disagree,Yes,Yes,Most Often,Neutral,No,3.0,2.0,3,4
+Female,Federal University,20 and Above,300,Jamb,Second Class Upper,Yes,Yes,No,Strongly Agree,Disagree,No,Yes,Often,Neutral,Yes,5.0,2.0,3,3
+Male,Polytechnics,20 and Above,200,Jamb,Pass,Yes,Yes,No,Strongly Disagree,Agree,No,No,Most Often,Agree,Yes,1.0,4.0,4,4
+Female,Federal University,16 - 17,100,Jamb,Third Class,Yes,No,No,Disagree,Neutral,No,No,Often,Strongly Agree,Yes,2.0,3.0,5,3
+Male,Federal University,18 - 19,100,Jamb,Second Class Upper,Yes,Yes,No,Neutral,Agree,No,Yes,Most Often,Strongly Agree,No,3.0,4.0,5,4
+Male,Federal University,16 - 17,100,Jamb,Second Class Upper,Yes,Yes,Yes,Agree,Disagree,Yes,Yes,Most Often,Neutral,Yes,4.0,2.0,3,4
+Female,State University,20 and Above,500,Jamb,Second Class Lower,Yes,No,No,Strongly Disagree,Agree,No,No,Often,Disagree,No,1.0,4.0,2,3
+Male,Federal University,16 - 17,100,Jamb,Second Class Upper,Yes,Yes,Yes,Neutral,Agree,No,Yes,Most Often,Neutral,No,3.0,4.0,3,4
+Male,Federal University,18 - 19,100,Jamb,Second Class Lower,Yes,Yes,Yes,Strongly Agree,Agree,No,No,Seldom,Agree,Yes,5.0,4.0,4,1
+Male,Federal University,20 and Above,100,Jamb,Second Class Lower,Yes,Yes,Yes,Agree,Agree,Yes,Yes,Most Often,Strongly Agree,Yes,4.0,4.0,5,4
+Female,Federal University,20 and Above,300,Jamb,Second Class Lower,Yes,Yes,Yes,Strongly Disagree,Disagree,Yes,Yes,Often,Agree,No,1.0,2.0,4,3
+Male,State University,16 - 17,500,Jamb,Second Class Upper,Yes,No,No,Disagree,Agree,No,No,More Often,Neutral,Yes,2.0,4.0,3,2
+Male,Federal University,20 and Above,100,Jamb,Second Class Upper,Yes,Yes,Yes,Neutral,Agree,Yes,No,Most Often,Neutral,Yes,3.0,4.0,3,4
+Female,Federal University,20 and Above,200,Jamb,Second Class Upper,Yes,No,Yes,Strongly Agree,Disagree,No,No,More Often,Neutral,No,5.0,2.0,3,2
+Male,Federal University,16 - 17,100,Jamb,Second Class Lower,Yes,No,No,Disagree,Agree,No,No,Seldom,Neutral,Yes,2.0,4.0,3,1
+Male,Federal University,18 - 19,100,Jamb,Pass,Yes,Yes,No,Agree,Neutral,Yes,Yes,Often,Strongly Disagree,Yes,4.0,3.0,1,3
+Male,Federal University,16 - 17,100,Jamb,Pass,Yes,No,No,Agree,Agree,No,Yes,Most Often,Strongly Disagree,Yes,4.0,4.0,1,4
+Female,Federal University,18 - 19,300,Jamb,Second Class Upper,No,Yes,Yes,Agree,Agree,No,Yes,Most Often,Neutral,No,4.0,4.0,3,4
+Male,State University,18 - 19,500,Jamb,Second Class Upper,Yes,Yes,Yes,Agree,Strongly Disagree,Yes,No,Often,Neutral,Yes,4.0,1.0,3,3
+Male,State University,18 - 19,400,Jamb,Third Class,Yes,Yes,No,Strongly Agree,Neutral,Yes,Yes,Most Often,Strongly Agree,Yes,5.0,3.0,5,4
+Male,Federal University,18 - 19,100,Jamb,Second Class Upper,Yes,Yes,Yes,Strongly Agree,Strongly Disagree,Yes,Yes,Most Often,Neutral,Yes,5.0,1.0,3,4
+Male,Federal University,16 - 17,100,Jamb,Second Class Upper,Yes,Yes,No,Neutral,Agree,No,Yes,Most Often,Disagree,Yes,3.0,4.0,2,4
+Female,Federal University,20 and Above,300,Jamb,Second Class Upper,Yes,No,No,Neutral,Agree,No,No,Seldom,Disagree,Yes,3.0,4.0,2,1
+Male,Federal University,20 and Above,100,Jamb,Second Class Upper,Yes,No,No,Disagree,Neutral,No,Yes,More Often,Agree,No,2.0,3.0,4,2
+Female,Federal University,18 - 19,200,Jamb,Second Class Upper,Yes,Yes,No,Neutral,Strongly Agree,No,Yes,Often,Agree,Yes,3.0,5.0,4,3
+Male,Federal University,16 - 17,100,Jamb,Pass,No,No,No,Neutral,Neutral,Yes,Yes,Most Often,Neutral,No,3.0,3.0,3,4
+Female,Federal University,18 - 19,200,Jamb,Second Class Upper,Yes,No,No,Strongly Disagree,Strongly Disagree,No,Yes,More Often,Agree,Yes,1.0,1.0,4,2
+Male,Federal University,18 - 19,100,Jamb,Second Class Upper,Yes,Yes,No,Neutral,Neutral,No,Yes,Most Often,Neutral,Yes,3.0,3.0,3,4
+Female,Federal University,20 and Above,300,Jamb,Second Class Upper,Yes,Yes,Yes,Strongly Disagree,Neutral,No,Yes,Often,Strongly Agree,Yes,1.0,3.0,5,3
+Male,Federal University,20 and Above,100,Jamb,Pass,Yes,Yes,Yes,Agree,Disagree,Yes,Yes,More Often,Disagree,Yes,4.0,2.0,2,2
+Female,Federal University,18 - 19,300,Direct Entry,First Class,Yes,No,No,Strongly Disagree,Agree,No,Yes,More Often,Strongly Disagree,No,1.0,4.0,1,2
+Female,Federal University,20 and Above,500,Direct Entry,Second Class Upper,Yes,Yes,Yes,Agree,Disagree,Yes,No,Seldom,Strongly Agree,Yes,4.0,2.0,5,1
+Female,State University,20 and Above,500,Jamb,Second Class Upper,Yes,Yes,No,Strongly Agree,Strongly Disagree,No,Yes,Often,Agree,No,5.0,1.0,4,3
+Female,Federal University,16 - 17,100,Jamb,Second Class Upper,No,No,No,Disagree,Agree,Yes,Yes,Often,Strongly Agree,Yes,2.0,4.0,5,3
+Male,Federal University,18 - 19,100,Direct Entry,Second Class Upper,Yes,Yes,Yes,Agree,Agree,Yes,Yes,Often,Strongly Agree,Yes,4.0,4.0,5,3
+Female,State University,18 - 19,200,Jamb,Second Class Upper,No,Yes,No,Agree,Agree,No,Yes,More Often,Neutral,No,4.0,4.0,3,2
+Male,Federal University,20 and Above,200,Jamb,Second Class Upper,Yes,No,No,Disagree,Agree,Yes,Yes,Most Often,Strongly Disagree,No,2.0,4.0,1,4
+Female,Federal University,20 and Above,300,Jamb,First Class,Yes,No,No,Disagree,Strongly Agree,No,Yes,Most Often,Agree,No,2.0,5.0,4,4
+Female,Federal University,18 - 19,300,Jamb,First Class,Yes,Yes,No,Disagree,Agree,No,Yes,More Often,Strongly Disagree,Yes,2.0,4.0,1,2
+Male,Federal University,20 and Above,300,Jamb,Second Class Upper,Yes,Yes,Yes,Strongly Disagree,Disagree,Yes,Yes,More Often,Agree,Yes,1.0,2.0,4,2
+Male,Federal University,20 and Above,300,Jamb,Second Class Upper,Yes,Yes,Yes,Neutral,Agree,Yes,Yes,Most Often,Strongly Disagree,Yes,3.0,4.0,1,4
+Male,Federal University,20 and Above,300,Jamb,First Class,No,No,No,Neutral,Agree,No,Yes,Most Often,Neutral,Yes,3.0,4.0,3,4
+Male,Federal University,20 and Above,300,Jamb,Second Class Upper,Yes,No,Yes,Agree,Disagree,Yes,No,Often,Strongly Disagree,Yes,4.0,2.0,1,3
+Male,Federal University,20 and Above,300,Jamb,Second Class Upper,Yes,No,Yes,Agree,Disagree,Yes,Yes,Most Often,Agree,Yes,4.0,2.0,4,4
+Male,Federal University,20 and Above,300,Jamb,Second Class Upper,Yes,No,Yes,Agree,Disagree,Yes,No,Most Often,Agree,Yes,4.0,2.0,4,4
+Female,Federal University,20 and Above,300,Jamb,First Class,Yes,No,No,Disagree,Agree,No,No,Most Often,Agree,No,2.0,4.0,4,4
+Female,Federal University,20 and Above,300,Jamb,Second Class Upper,Yes,Yes,Yes,Agree,Disagree,Yes,Yes,Most Often,Strongly Agree,Yes,4.0,2.0,5,4
+Male,Federal University,20 and Above,300,Jamb,First Class,Yes,Yes,Yes,Strongly Disagree,Neutral,Yes,Yes,Often,Strongly Disagree,Yes,1.0,3.0,1,3
+Female,Polytechnics,20 and Above,200,Jamb,Second Class Lower,Yes,Yes,No,Agree,Agree,No,Yes,Most Often,Agree,Yes,4.0,4.0,4,4
+Female,Federal University,20 and Above,300,Jamb,First Class,Yes,No,No,Disagree,Disagree,No,Yes,Often,Disagree,No,2.0,2.0,2,3
+Female,State University,16 - 17,200,Jamb,Second Class Upper,Yes,Yes,No,Disagree,Agree,No,Yes,More Often,Disagree,Yes,2.0,4.0,2,2
+Female,Federal University,18 - 19,100,Jamb,Second Class Upper,Yes,Yes,Yes,Agree,Disagree,Yes,No,Often,Neutral,Yes,4.0,2.0,3,3
+Female,State University,18 - 19,100,Jamb,Second Class Upper,Yes,Yes,No,Neutral,Neutral,No,Yes,Most Often,Agree,Yes,3.0,3.0,4,4
+Male,State University,20 and Above,100,Jamb,Third Class,Yes,Yes,Yes,Agree,Agree,Yes,Yes,Most Often,Disagree,Yes,4.0,4.0,2,4
+Female,College of Education,18 - 19,200,Jamb,Second Class Upper,Yes,No,Yes,Agree,Disagree,Yes,Yes,Most Often,Disagree,Yes,4.0,2.0,2,4
+Female,Polytechnics,20 and Above,400,Jamb,Second Class Lower,Yes,Yes,Yes,Agree,Disagree,Yes,Yes,Most Often,Neutral,No,4.0,2.0,3,4
+Male,Federal University,20 and Above,300,Direct Entry,Second Class Lower,Yes,Yes,No,Strongly Agree,Agree,No,Yes,Often,Agree,Yes,5.0,4.0,4,3
+Female,Polytechnics,20 and Above,100,Jamb,Second Class Upper,Yes,Yes,Yes,Strongly Disagree,Agree,Yes,Yes,Most Often,Disagree,Yes,1.0,4.0,2,4
+Female,Federal University,20 and Above,100,Jamb,Second Class Upper,Yes,Yes,No,Agree,Agree,No,Yes,More Often,Strongly Disagree,No,4.0,4.0,1,2
+Male,State University,18 - 19,200,Direct Entry,Second Class Upper,Yes,Yes,Yes,Agree,Agree,Yes,Yes,Most Often,Strongly Disagree,Yes,4.0,4.0,1,4
+Female,Federal University,20 and Above,300,Jamb,Second Class Upper,Yes,Yes,Yes,Agree,Strongly Disagree,Yes,No,Most Often,Agree,Yes,4.0,1.0,4,4
+Female,Private University,18 - 19,200,Jamb,First Class,Yes,Yes,Yes,Strongly Agree,Strongly Disagree,Yes,Yes,More Often,Agree,Yes,5.0,1.0,4,2
+Male,Federal University,18 - 19,100,Jamb,Second Class Lower,Yes,No,No,Neutral,Disagree,Yes,No,More Often,Strongly Agree,Yes,3.0,2.0,5,2
+Female,State University,20 and Above,200,Jamb,First Class,Yes,No,No,Agree,Agree,No,Yes,Often,Disagree,Yes,4.0,4.0,2,3
+Male,Federal University,20 and Above,100,Jamb,Second Class Upper,Yes,Yes,Yes,Agree,Disagree,No,Yes,More Often,Strongly Agree,Yes,4.0,2.0,5,2
+Female,State University,18 - 19,300,Jamb,Second Class Lower,Yes,No,Yes,Neutral,Neutral,No,No,Often,Neutral,No,3.0,3.0,3,3
+Female,State University,18 - 19,200,Jamb,Second Class Upper,Yes,No,No,Neutral,Neutral,No,Yes,Most Often,Strongly Agree,Yes,3.0,3.0,5,4
+Female,State University,18 - 19,200,Jamb,First Class,Yes,Yes,No,Neutral,Neutral,No,Yes,Most Often,Agree,Yes,3.0,3.0,4,4
+Female,Federal University,18 - 19,100,Jamb,Second Class Upper,Yes,Yes,Yes,Agree,Agree,Yes,Yes,Most Often,Neutral,No,4.0,4.0,3,4
+Male,Polytechnics,20 and Above,400,Jamb,Second Class Upper,Yes,Yes,Yes,Strongly Disagree,Agree,Yes,Yes,Seldom,Neutral,Yes,1.0,4.0,3,1
+Male,State University,20 and Above,400,Jamb,Second Class Upper,Yes,Yes,Yes,Agree,Disagree,Yes,Yes,More Often,Agree,Yes,4.0,2.0,4,2
+Female,Federal University,16 - 17,300,Jamb,Second Class Upper,Yes,Yes,No,Neutral,Agree,No,Yes,Often,Strongly Disagree,Yes,3.0,4.0,1,3
+Female,Polytechnics,18 - 19,200,Jamb,Pass,Yes,Yes,Yes,Agree,Agree,No,Yes,Most Often,Strongly Agree,Yes,4.0,4.0,5,4
+Female,State University,18 - 19,200,Jamb,First Class,Yes,Yes,No,Agree,Agree,Yes,No,Most Often,Disagree,No,4.0,4.0,2,4
+Male,Federal University,18 - 19,100,Jamb,Second Class Lower,Yes,No,No,Neutral,Strongly Disagree,Yes,Yes,Seldom,Agree,Yes,3.0,1.0,4,1
+Male,Private University,20 and Above,500,Direct Entry,Second Class Upper,No,Yes,Yes,Agree,Neutral,Yes,Yes,Often,Neutral,No,4.0,3.0,3,3
+Female,Federal University,16 - 17,100,Jamb,Second Class Upper,Yes,Yes,No,Strongly Disagree,Strongly Agree,No,No,Most Often,Agree,Yes,1.0,5.0,4,4
+Female,Federal University,16 - 17,100,Jamb,Second Class Upper,Yes,No,No,Strongly Disagree,Agree,No,No,Often,Neutral,No,1.0,4.0,3,3
+Female,Federal University,20 and Above,100,Jamb,First Class,Yes,Yes,Yes,Agree,Disagree,Yes,Yes,Often,Strongly Agree,No,4.0,2.0,5,3
+Female,Federal University,18 - 19,200,Jamb,Second Class Upper,Yes,No,No,Strongly Disagree,Strongly Disagree,No,No,More Often,Agree,No,1.0,1.0,4,2
+Female,State University,20 and Above,200,Jamb,First Class,Yes,Yes,Yes,Strongly Agree,Strongly Disagree,Yes,Yes,More Often,Strongly Agree,Yes,5.0,1.0,5,2
+Female,State University,16 - 17,200,Jamb,Second Class Upper,Yes,No,No,Strongly Disagree,Neutral,No,Yes,More Often,Agree,Yes,1.0,3.0,4,2
+Female,Federal University,20 and Above,300,Jamb,Second Class Upper,Yes,No,No,Agree,Agree,No,No,Most Often,Disagree,No,4.0,4.0,2,4
+Male,State University,16 - 17,200,Jamb,First Class,Yes,No,No,Disagree,Disagree,Yes,Yes,Most Often,Strongly Agree,No,2.0,2.0,5,4
+Male,Federal University,18 - 19,300,Jamb,Second Class Upper,Yes,Yes,Yes,Agree,Strongly Disagree,Yes,Yes,More Often,Neutral,Yes,4.0,1.0,3,2
+Female,State University,20 and Above,200,Jamb,Second Class Upper,Yes,Yes,No,Disagree,Agree,Yes,Yes,Most Often,Agree,No,2.0,4.0,4,4
+Female,Polytechnics,20 and Above,300,Direct Entry,Second Class Lower,Yes,No,Yes,Strongly Agree,Agree,No,Yes,Often,Agree,Yes,5.0,4.0,4,3
+Male,Federal University,20 and Above,500,Jamb,Pass,Yes,Yes,Yes,Neutral,Neutral,No,Yes,More Often,Neutral,Yes,3.0,3.0,3,2
+Female,Federal University,20 and Above,300,Jamb,Second Class Upper,Yes,Yes,No,Disagree,Disagree,No,Yes,More Often,Disagree,Yes,2.0,2.0,2,2
+Male,Polytechnics,20 and Above,400,Direct Entry,Pass,Yes,Yes,Yes,Strongly Disagree,Strongly Disagree,Yes,No,Seldom,Agree,No,1.0,1.0,4,1
+Male,State University,20 and Above,100,Jamb,First Class,Yes,Yes,No,Agree,Neutral,No,Yes,More Often,Agree,Yes,4.0,3.0,4,2
+Female,Federal University,18 - 19,300,Jamb,Second Class Upper,Yes,Yes,Yes,Strongly Agree,Strongly Agree,Yes,No,Often,Agree,Yes,5.0,5.0,4,3
+Female,State University,18 - 19,500,Jamb,First Class,Yes,No,Yes,Agree,Disagree,Yes,No,Most Often,Strongly Agree,No,4.0,2.0,5,4
+Female,Federal University,20 and Above,400,Jamb,Second Class Upper,Yes,No,No,Agree,Disagree,No,Yes,More Often,Strongly Agree,Yes,4.0,2.0,5,2
+Female,College of Education,20 and Above,300,Jamb,Second Class Upper,Yes,No,No,Disagree,Disagree,No,Yes,Seldom,Agree,Yes,2.0,2.0,4,1
+Male,State University,18 - 19,100,Jamb,First Class,Yes,Yes,Yes,Agree,Agree,Yes,Yes,Often,Strongly Agree,Yes,4.0,4.0,5,3
+Female,Federal University,18 - 19,300,Jamb,Second Class Lower,Yes,No,No,Neutral,Neutral,No,Yes,Most Often,Agree,Yes,3.0,3.0,4,4
+Female,Federal University,18 - 19,300,Jamb,Second Class Lower,Yes,Yes,No,Neutral,Neutral,No,Yes,More Often,Disagree,Yes,3.0,3.0,2,2
+Female,Federal University,20 and Above,400,Jamb,First Class,Yes,No,Yes,Neutral,Neutral,No,Yes,Most Often,Strongly Agree,No,3.0,3.0,5,4
+Male,Federal University,18 - 19,300,Jamb,Second Class Upper,Yes,Yes,Yes,Agree,Disagree,Yes,No,Most Often,Strongly Agree,Yes,4.0,2.0,5,4
+Male,Polytechnics,18 - 19,400,Jamb,Second Class Upper,Yes,Yes,No,Strongly Disagree,Neutral,Yes,Yes,Most Often,Agree,Yes,1.0,3.0,4,4
+Male,State University,20 and Above,300,Jamb,Second Class Upper,Yes,Yes,Yes,Agree,Disagree,No,No,Most Often,Agree,Yes,4.0,2.0,4,4
+Female,Federal University,16 - 17,100,Jamb,Pass,No,Yes,Yes,Agree,Neutral,Yes,No,Most Often,Disagree,No,4.0,3.0,2,4
+Female,Federal University,20 and Above,100,Jamb,Third Class,Yes,Yes,Yes,Neutral,Neutral,No,No,Often,Agree,Yes,3.0,3.0,4,3
+Female,State University,18 - 19,300,Jamb,Second Class Upper,Yes,No,Yes,Strongly Agree,Strongly Disagree,Yes,Yes,More Often,Disagree,Yes,5.0,1.0,2,2
+Female,Federal University,20 and Above,100,Jamb,First Class,No,No,No,Strongly Disagree,Disagree,No,Yes,Most Often,Agree,Yes,1.0,2.0,4,4
+Female,State University,16 - 17,200,Jamb,First Class,Yes,No,No,Agree,Agree,No,No,Often,Strongly Disagree,No,4.0,4.0,1,3
+Female,Federal University,16 - 17,300,Jamb,Second Class Upper,Yes,No,No,Agree,Disagree,No,No,More Often,Strongly Disagree,No,4.0,2.0,1,2
+Male,Federal University,18 - 19,300,Jamb,Second Class Upper,Yes,Yes,Yes,Agree,Neutral,No,No,Often,Strongly Agree,Yes,4.0,3.0,5,3
+Female,State University,18 - 19,300,Jamb,Second Class Upper,Yes,Yes,No,Neutral,Agree,No,Yes,Most Often,Strongly Disagree,Yes,3.0,4.0,1,4
+Male,Federal University,20 and Above,300,Jamb,Second Class Upper,Yes,Yes,Yes,Strongly Disagree,Strongly Disagree,Yes,Yes,Most Often,Agree,Yes,1.0,1.0,4,4
+Female,Federal University,18 - 19,200,Jamb,Second Class Upper,Yes,Yes,No,Neutral,Neutral,No,Yes,Most Often,Strongly Disagree,No,3.0,3.0,1,4
+Male,Federal University,20 and Above,300,Jamb,Second Class Upper,No,No,No,Disagree,Neutral,No,Yes,Most Often,Agree,Yes,2.0,3.0,4,4
+Female,State University,16 - 17,500,Jamb,Second Class Upper,Yes,Yes,No,Strongly Disagree,Neutral,No,Yes,Most Often,Disagree,Yes,1.0,3.0,2,4
+Male,Federal University,20 and Above,100,Jamb,First Class,Yes,Yes,No,Neutral,Strongly Agree,Yes,No,Often,Strongly Disagree,Yes,3.0,5.0,1,3
+Male,State University,20 and Above,500,Jamb,Second Class Upper,Yes,No,No,Agree,Disagree,No,Yes,Most Often,Strongly Agree,Yes,4.0,2.0,5,4
+Male,Federal University,20 and Above,400,Jamb,Second Class Upper,Yes,Yes,No,Strongly Agree,Disagree,No,Yes,Most Often,Strongly Disagree,Yes,5.0,2.0,1,4
+Female,Federal University,20 and Above,300,Jamb,Second Class Lower,Yes,Yes,Yes,Strongly Disagree,Strongly Disagree,No,Yes,More Often,Strongly Agree,No,1.0,1.0,5,2
+Female,Federal University,18 - 19,400,Jamb,Second Class Upper,Yes,No,No,Disagree,Agree,No,Yes,Most Often,Agree,No,2.0,4.0,4,4
+Female,Federal University,20 and Above,100,Jamb,Pass,Yes,Yes,No,Neutral,Neutral,No,Yes,Most Often,Strongly Disagree,Yes,3.0,3.0,1,4
+Male,Federal University,18 - 19,500,Jamb,Second Class Upper,Yes,No,No,Neutral,Neutral,No,Yes,Often,Agree,No,3.0,3.0,4,3
+Male,Federal University,20 and Above,400,Jamb,Second Class Upper,Yes,Yes,No,Agree,Agree,No,No,Most Often,Neutral,No,4.0,4.0,3,4
+Female,Federal University,18 - 19,100,Jamb,Second Class Lower,Yes,Yes,Yes,Strongly Agree,Neutral,No,Yes,Often,Agree,Yes,5.0,3.0,4,3
+Female,Federal University,18 - 19,400,Jamb,Second Class Upper,Yes,Yes,No,Disagree,Neutral,No,Yes,More Often,Neutral,Yes,2.0,3.0,3,2
+Female,Federal University,20 and Above,300,Jamb,Second Class Lower,Yes,Yes,Yes,Agree,Disagree,Yes,Yes,Seldom,Neutral,No,4.0,2.0,3,1
+Male,Federal University,18 - 19,100,Jamb,Second Class Lower,Yes,Yes,Yes,Agree,Neutral,No,No,Often,Strongly Disagree,Yes,4.0,3.0,1,3
+Male,Federal University,18 - 19,300,Jamb,Second Class Upper,Yes,Yes,No,Neutral,Disagree,Yes,Yes,Most Often,Neutral,No,3.0,2.0,3,4
+Female,Federal University,20 and Above,400,Jamb,First Class,Yes,Yes,Yes,Strongly Agree,Neutral,Yes,Yes,Often,Agree,No,5.0,3.0,4,3
+Male,Federal University,18 - 19,500,Jamb,Second Class Lower,Yes,No,No,Disagree,Agree,No,Yes,Often,Agree,Yes,2.0,4.0,4,3
+Male,State University,16 - 17,100,Jamb,Second Class Upper,Yes,Yes,Yes,Strongly Agree,Disagree,Yes,Yes,Most Often,Agree,Yes,5.0,2.0,4,4
+Male,State University,16 - 17,300,Jamb,First Class,Yes,No,No,Agree,Agree,No,No,Often,Agree,Yes,4.0,4.0,4,3
+Male,Federal University,20 and Above,300,Direct Entry,First Class,Yes,Yes,Yes,Strongly Agree,Strongly Disagree,Yes,Yes,Most Often,Agree,No,5.0,1.0,4,4
+Female,State University,18 - 19,200,Jamb,First Class,Yes,No,No,Disagree,Disagree,No,Yes,Often,Disagree,No,2.0,2.0,2,3
+Female,Federal University,20 and Above,400,Direct Entry,Second Class Upper,Yes,No,No,Disagree,Strongly Disagree,No,Yes,Seldom,Strongly Disagree,No,2.0,1.0,1,1
+Male,Federal University,18 - 19,400,Jamb,Second Class Upper,Yes,No,No,Agree,Neutral,Yes,Yes,Seldom,Strongly Agree,No,4.0,3.0,5,1
+Female,Federal University,20 and Above,400,Jamb,Second Class Upper,Yes,Yes,No,Agree,Neutral,No,Yes,Often,Neutral,No,4.0,3.0,3,3
+Female,State University,16 - 17,300,Jamb,First Class,No,No,No,Disagree,Agree,Yes,No,More Often,Strongly Disagree,No,2.0,4.0,1,2
+Female,State University,18 - 19,500,Jamb,Second Class Lower,Yes,No,No,Disagree,Neutral,No,Yes,Most Often,Agree,Yes,2.0,3.0,4,4
+Male,Federal University,18 - 19,100,Jamb,Second Class Upper,Yes,Yes,No,Disagree,Neutral,No,Yes,Most Often,Agree,No,2.0,3.0,4,4
+Female,Polytechnics,20 and Above,100,Jamb,Second Class Upper,Yes,Yes,No,Neutral,Neutral,No,Yes,Most Often,Strongly Agree,Yes,3.0,3.0,5,4
+Female,Federal University,18 - 19,300,Jamb,Second Class Upper,Yes,Yes,Yes,Disagree,Disagree,No,Yes,More Often,Strongly Agree,Yes,2.0,2.0,5,2
+Male,Federal University,20 and Above,400,Jamb,Second Class Lower,Yes,Yes,Yes,Agree,Agree,Yes,Yes,Often,Strongly Agree,No,4.0,4.0,5,3
+Female,Federal University,20 and Above,300,Jamb,Second Class Upper,Yes,No,Yes,Strongly Disagree,Disagree,No,Yes,Most Often,Disagree,Yes,1.0,2.0,2,4
+Female,Federal University,20 and Above,400,Jamb,First Class,Yes,Yes,No,Strongly Disagree,Agree,Yes,Yes,Often,Strongly Disagree,No,1.0,4.0,1,3
+Female,Federal University,20 and Above,400,Jamb,First Class,Yes,Yes,Yes,Agree,Strongly Disagree,Yes,Yes,Often,Agree,Yes,4.0,1.0,4,3
+Female,Federal University,20 and Above,300,Jamb,Second Class Upper,Yes,No,No,Strongly Disagree,Strongly Agree,No,Yes,Seldom,Agree,No,1.0,5.0,4,1
+Male,State University,18 - 19,400,Jamb,Second Class Upper,Yes,Yes,No,Neutral,Neutral,No,No,Often,Strongly Agree,Yes,3.0,3.0,5,3
+Male,Federal University,18 - 19,400,Jamb,Pass,Yes,No,No,Strongly Disagree,Agree,No,Yes,Often,Strongly Agree,Yes,1.0,4.0,5,3
+Male,Federal University,18 - 19,200,Jamb,Second Class Lower,Yes,Yes,No,Strongly Disagree,Neutral,No,Yes,More Often,Neutral,Yes,1.0,3.0,3,2
+Female,Polytechnics,20 and Above,300,Direct Entry,Second Class Lower,Yes,Yes,No,Neutral,Disagree,No,Yes,Often,Strongly Agree,No,3.0,2.0,5,3
+Female,Federal University,18 - 19,400,Jamb,Second Class Upper,Yes,No,No,Disagree,Disagree,No,No,Often,Strongly Agree,Yes,2.0,2.0,5,3
+Male,State University,20 and Above,100,Jamb,Second Class Upper,Yes,Yes,No,Agree,Neutral,Yes,Yes,Most Often,Agree,No,4.0,3.0,4,4
+Male,Federal University,20 and Above,200,Jamb,First Class,Yes,No,No,Strongly Disagree,Agree,No,Yes,Often,Disagree,Yes,1.0,4.0,2,3
+Female,Federal University,18 - 19,200,Jamb,Second Class Upper,Yes,No,No,Neutral,Neutral,No,Yes,Often,Agree,Yes,3.0,3.0,4,3
+Male,Federal University,20 and Above,400,Jamb,Pass,Yes,Yes,No,Neutral,Neutral,Yes,Yes,Most Often,Strongly Agree,Yes,3.0,3.0,5,4
+Male,State University,18 - 19,300,Jamb,Second Class Lower,Yes,Yes,Yes,Strongly Disagree,Agree,Yes,Yes,More Often,Strongly Disagree,No,1.0,4.0,1,2
+Female,Federal University,20 and Above,500,Jamb,Second Class Lower,Yes,Yes,No,Neutral,Strongly Agree,Yes,Yes,Seldom,Neutral,Yes,3.0,5.0,3,1
+Female,State University,20 and Above,500,Jamb,Second Class Upper,Yes,Yes,No,Disagree,Agree,Yes,Yes,Most Often,Neutral,Yes,2.0,4.0,3,4
+Male,Federal University,20 and Above,300,Jamb,Second Class Upper,Yes,No,Yes,Neutral,Neutral,Yes,No,Most Often,Strongly Disagree,Yes,3.0,3.0,1,4
+Male,State University,20 and Above,400,Jamb,Second Class Lower,Yes,Yes,No,Neutral,Disagree,Yes,No,Most Often,Strongly Disagree,Yes,3.0,2.0,1,4
+Female,Federal University,18 - 19,100,Jamb,Second Class Upper,Yes,Yes,No,Disagree,Neutral,No,Yes,More Often,Strongly Agree,Yes,2.0,3.0,5,2
+Male,Federal University,20 and Above,400,Jamb,Second Class Lower,Yes,No,No,Disagree,Disagree,No,No,More Often,Agree,Yes,2.0,2.0,4,2
+Male,State University,20 and Above,500,Jamb,Second Class Lower,Yes,Yes,Yes,Disagree,Agree,Yes,Yes,Often,Neutral,Yes,2.0,4.0,3,3
+Male,State University,18 - 19,200,Jamb,Third Class,Yes,Yes,Yes,Agree,Agree,Yes,Yes,Seldom,Strongly Agree,Yes,4.0,4.0,5,1
+Male,State University,16 - 17,200,Jamb,Second Class Lower,Yes,Yes,No,Neutral,Agree,No,No,More Often,Disagree,Yes,3.0,4.0,2,2
+Male,Polytechnics,20 and Above,300,Direct Entry,Second Class Upper,Yes,No,No,Neutral,Neutral,Yes,Yes,Often,Agree,Yes,3.0,3.0,4,3
+Female,State University,18 - 19,100,Jamb,Second Class Upper,Yes,No,No,Disagree,Neutral,No,Yes,Often,Disagree,Yes,2.0,3.0,2,3
+Female,Federal University,20 and Above,400,Jamb,Second Class Upper,Yes,No,No,Neutral,Agree,No,Yes,Most Often,Strongly Agree,Yes,3.0,4.0,5,4
+Male,Private University,20 and Above,100,Jamb,First Class,Yes,Yes,No,Agree,Disagree,Yes,No,Often,Strongly Disagree,Yes,4.0,2.0,1,3
+Female,Federal University,18 - 19,500,Jamb,Second Class Upper,Yes,No,No,Agree,Strongly Disagree,No,No,Most Often,Agree,Yes,4.0,1.0,4,4
+Female,Federal University,20 and Above,300,Jamb,Second Class Lower,Yes,Yes,Yes,Agree,Disagree,Yes,No,Most Often,Strongly Agree,Yes,4.0,2.0,5,4
+Female,Federal University,18 - 19,400,Jamb,Second Class Upper,Yes,Yes,No,Disagree,Agree,Yes,Yes,Most Often,Agree,No,2.0,4.0,4,4
+Female,State University,20 and Above,300,Jamb,Second Class Upper,Yes,Yes,No,Disagree,Disagree,Yes,Yes,Often,Agree,Yes,2.0,2.0,4,3
+Male,Private University,20 and Above,500,Jamb,Second Class Upper,Yes,Yes,Yes,Strongly Agree,Agree,Yes,Yes,Often,Neutral,Yes,5.0,4.0,3,3
+Male,Polytechnics,18 - 19,400,Jamb,Second Class Upper,Yes,Yes,Yes,Strongly Agree,Strongly Disagree,Yes,Yes,Often,Neutral,No,5.0,1.0,3,3
+Female,Polytechnics,20 and Above,100,Jamb,Second Class Lower,Yes,Yes,Yes,Agree,Agree,Yes,No,More Often,Neutral,Yes,4.0,4.0,3,2
+Male,Private University,18 - 19,400,Jamb,First Class,Yes,No,No,Strongly Disagree,Strongly Disagree,No,No,More Often,Strongly Agree,Yes,1.0,1.0,5,2
+Female,Private University,20 and Above,500,Jamb,First Class,Yes,No,No,Disagree,Disagree,No,No,Most Often,Agree,Yes,2.0,2.0,4,4
+Male,Federal University,20 and Above,300,Jamb,Second Class Upper,Yes,Yes,No,Neutral,Neutral,No,Yes,Often,Agree,No,3.0,3.0,4,3
+Male,Federal University,18 - 19,100,Jamb,Third Class,Yes,No,No,Disagree,Agree,No,Yes,More Often,Strongly Agree,Yes,2.0,4.0,5,2
+Male,Federal University,16 - 17,300,Jamb,Pass,Yes,Yes,No,Disagree,Disagree,No,No,More Often,Agree,Yes,2.0,2.0,4,2
+Female,Federal University,20 and Above,200,Jamb,Second Class Upper,Yes,Yes,No,Agree,Disagree,No,Yes,Most Often,Strongly Agree,Yes,4.0,2.0,5,4
+Male,Federal University,18 - 19,300,Jamb,Second Class Upper,Yes,Yes,Yes,Neutral,Neutral,No,Yes,Often,Strongly Agree,No,3.0,3.0,5,3
+Male,Federal University,20 and Above,300,Jamb,Second Class Upper,Yes,Yes,No,Agree,Disagree,No,Yes,More Often,Neutral,No,4.0,2.0,3,2
+Male,Federal University,18 - 19,200,Jamb,First Class,Yes,Yes,No,Neutral,Neutral,Yes,Yes,Often,Agree,Yes,3.0,3.0,4,3
+Male,Federal University,18 - 19,200,Jamb,Second Class Lower,Yes,Yes,No,Agree,Neutral,No,No,More Often,Agree,Yes,4.0,3.0,4,2
+Female,Private University,18 - 19,300,Jamb,Second Class Upper,Yes,No,No,Disagree,Neutral,No,Yes,Most Often,Disagree,No,2.0,3.0,2,4
+Female,Private University,20 and Above,300,Jamb,Pass,Yes,Yes,No,Neutral,Neutral,Yes,No,Most Often,Strongly Agree,Yes,3.0,3.0,5,4
+Female,Private University,18 - 19,200,Direct Entry,Second Class Upper,Yes,No,No,Disagree,Neutral,No,Yes,More Often,Agree,Yes,2.0,3.0,4,2
+Female,Federal University,16 - 17,200,Jamb,Second Class Lower,Yes,Yes,No,Agree,Agree,No,Yes,More Often,Neutral,No,4.0,4.0,3,2
+Male,Federal University,18 - 19,300,Jamb,First Class,Yes,No,No,Agree,Agree,No,Yes,Most Often,Agree,Yes,4.0,4.0,4,4
+Female,Federal University,18 - 19,400,Direct Entry,Second Class Upper,Yes,Yes,No,Disagree,Disagree,No,Yes,Most Often,Agree,Yes,2.0,2.0,4,4
+Female,Federal University,18 - 19,400,Jamb,Second Class Upper,Yes,No,No,Disagree,Agree,No,Yes,Often,Strongly Agree,Yes,2.0,4.0,5,3
+Male,State University,20 and Above,400,Jamb,Second Class Upper,Yes,Yes,No,Strongly Agree,Disagree,Yes,No,Seldom,Strongly Disagree,Yes,5.0,2.0,1,1
+Male,State University,20 and Above,500,Jamb,Second Class Upper,Yes,Yes,Yes,Strongly Agree,Strongly Disagree,Yes,Yes,Most Often,Disagree,No,5.0,1.0,2,4
+Female,Federal University,20 and Above,300,Jamb,Second Class Lower,Yes,Yes,Yes,Agree,Disagree,No,No,Most Often,Disagree,No,4.0,2.0,2,4
+Male,Federal University,20 and Above,200,Jamb,Second Class Upper,Yes,Yes,Yes,Agree,Disagree,No,Yes,Often,Strongly Agree,No,4.0,2.0,5,3
+Female,Private University,18 - 19,300,Jamb,First Class,No,Yes,No,Agree,Disagree,No,Yes,Often,Agree,Yes,4.0,2.0,4,3
+Male,Federal University,16 - 17,500,Jamb,Second Class Upper,Yes,Yes,No,Neutral,Disagree,No,Yes,Often,Neutral,No,3.0,2.0,3,3
+Male,Federal University,20 and Above,400,Jamb,Second Class Lower,Yes,No,No,Disagree,Agree,No,Yes,Most Often,Agree,Yes,2.0,4.0,4,4
+Female,Polytechnics,20 and Above,400,Jamb,Second Class Lower,Yes,No,Yes,Strongly Agree,Neutral,Yes,No,Often,Strongly Agree,Yes,5.0,3.0,5,3
+Female,Federal University,16 - 17,400,Jamb,Second Class Lower,Yes,No,Yes,Neutral,Neutral,No,Yes,Seldom,Agree,No,3.0,3.0,4,1
+Female,Federal University,20 and Above,500,Direct Entry,Second Class Upper,Yes,Yes,Yes,Strongly Agree,Disagree,Yes,No,Seldom,Strongly Agree,No,5.0,2.0,5,1
+Female,State University,20 and Above,400,Direct Entry,Second Class Upper,Yes,Yes,Yes,Strongly Agree,Disagree,Yes,Yes,Often,Neutral,Yes,5.0,2.0,3,3
+Male,State University,18 - 19,500,Jamb,Second Class Upper,Yes,Yes,No,Disagree,Disagree,No,No,Seldom,Strongly Agree,Yes,2.0,2.0,5,1
+Male,Federal University,18 - 19,500,Jamb,Second Class Upper,Yes,No,No,Disagree,Disagree,No,Yes,Often,Neutral,Yes,2.0,2.0,3,3
+Female,Private University,16 - 17,200,Jamb,Second Class Upper,Yes,No,No,Disagree,Neutral,No,No,Often,Agree,Yes,2.0,3.0,4,3
+Male,Federal University,18 - 19,400,Jamb,Second Class Lower,Yes,No,Yes,Agree,Neutral,No,Yes,More Often,Agree,Yes,4.0,3.0,4,2
+Male,Private University,20 and Above,400,Jamb,Second Class Lower,Yes,No,No,Neutral,Neutral,No,Yes,More Often,Strongly Agree,Yes,3.0,3.0,5,2
+Female,State University,16 - 17,200,Jamb,Pass,Yes,Yes,No,Disagree,Disagree,Yes,Yes,Most Often,Agree,Yes,2.0,2.0,4,4
+Male,Federal University,20 and Above,300,Jamb,Third Class,Yes,Yes,Yes,Agree,Disagree,No,No,Seldom,Agree,No,4.0,2.0,4,1
+Female,State University,20 and Above,300,Jamb,Third Class,Yes,Yes,Yes,Strongly Agree,Agree,Yes,Yes,Often,Agree,Yes,5.0,4.0,4,3
+Male,State University,20 and Above,400,Jamb,Second Class Lower,Yes,Yes,Yes,Neutral,Neutral,Yes,No,Often,Strongly Agree,No,3.0,3.0,5,3
+Female,State University,20 and Above,300,Jamb,Second Class Lower,Yes,Yes,No,Neutral,Neutral,Yes,Yes,Often,Agree,Yes,3.0,3.0,4,3
+Male,Polytechnics,20 and Above,300,Jamb,Third Class,Yes,No,Yes,Agree,Agree,No,Yes,Most Often,Strongly Disagree,No,4.0,4.0,1,4
+Female,Federal University,16 - 17,300,Jamb,Third Class,Yes,No,No,Disagree,Disagree,No,No,Most Often,Disagree,Yes,2.0,2.0,2,4
+Female,Federal University,20 and Above,100,Direct Entry,Second Class Upper,Yes,No,Yes,Strongly Disagree,Disagree,Yes,Yes,Most Often,Strongly Agree,Yes,1.0,2.0,5,4
+Female,Federal University,20 and Above,500,Direct Entry,First Class,Yes,Yes,Yes,Strongly Agree,Neutral,Yes,No,More Often,Agree,Yes,5.0,3.0,4,2
+Female,Federal University,20 and Above,400,Direct Entry,Third Class,Yes,No,No,Neutral,Neutral,No,Yes,Most Often,Strongly Agree,Yes,3.0,3.0,5,4
+Male,Federal University,20 and Above,500,Direct Entry,Pass,Yes,Yes,No,Strongly Disagree,Strongly Agree,No,No,Often,Strongly Disagree,Yes,1.0,5.0,1,3
+Male,Federal University,20 and Above,500,Direct Entry,Pass,Yes,Yes,No,Strongly Disagree,Strongly Agree,Yes,Yes,Most Often,Neutral,Yes,1.0,5.0,3,4
+Female,College of Education,20 and Above,300,Jamb,First Class,Yes,Yes,Yes,Disagree,Agree,Yes,Yes,More Often,Strongly Agree,Yes,2.0,4.0,5,2
+Female,College of Education,18 - 19,300,Jamb,First Class,Yes,Yes,Yes,Strongly Agree,Disagree,Yes,No,Most Often,Disagree,No,5.0,2.0,2,4
+Female,College of Education,20 and Above,300,Jamb,First Class,Yes,Yes,Yes,Strongly Agree,Disagree,Yes,Yes,Often,Disagree,Yes,5.0,2.0,2,3
+Female,Polytechnics,20 and Above,400,Jamb,Second Class Upper,Yes,Yes,Yes,Strongly Disagree,Strongly Disagree,No,Yes,More Often,Strongly Disagree,Yes,1.0,1.0,1,2
+Female,State University,16 - 17,300,Jamb,Second Class Upper,Yes,Yes,No,Neutral,Neutral,No,Yes,Most Often,Strongly Agree,Yes,3.0,3.0,5,4

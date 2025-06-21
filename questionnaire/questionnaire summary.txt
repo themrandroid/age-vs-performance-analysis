@@ -1,0 +1,36 @@
+BIO-DATA
+
+1. Gender	
+2. Instiution	
+3. Age_on_Admission	
+4. Institution Location	
+5. Level	
+6. Previous GPA	
+7. Current CGPA	
+8. Jamb Score	
+9. Mode of Entry	
+10. Occupation	
+11. Status in the Institution
+
+QUESTIONS
+
+1. Are you aware of the federal government policy stating that 16 years of age is too young to enter tertiary Institutions?  
+[Yes/No]
+2. Do you agree with the current admission age policy for tertiary Institutions?  
+[Yes/No]
+3. Do you believe that age determines academic performance?
+[Yes/No]  
+4. If Yes, do you agree that all students above 18 have adequate cognition that corresponds with tertiary Institution academic performance? 
+[Disagree/Agree/Neutral/Strongly agree/Strongly disagree]
+5. If No, do you agree that all undergraduate students below 18 have adequate cognition that corresponds with tertiary Institution academic performance? 
+[Disagree/Agree/Neutral/Strongly agree/Strongly disagree]
+6. Do you believe that age determines maturity of a student? 
+[Yes/No]
+7. Do you believe that age contributes to academic readiness among students?
+[Yes/No]
+8. How often do undergraduates below 18 attend lectures? 
+[Seldom/More often/Most often/Often]
+9. Do you agree that undergraduates above 18 have success in their academic performance than undergraduates below 18? 
+[Disagree/Agree/Neutral/Strongly agree/Strongly disagree]
+10. Are you aware of the  federal government policy on new admission age?
+[Yes/No]
